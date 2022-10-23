@@ -17,7 +17,7 @@ An application that can view the current day's weather
 ## Usage
   Use the deployed link and search for a city
 
-Deployed Link: 
+Deployed Link: https://cspitt99.github.io/weather-app-dashboard/
 
 ## License
   This application is licensed under [The MIT License](https://opensource.org/licenses/MIT).
